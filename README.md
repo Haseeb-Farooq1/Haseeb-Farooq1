@@ -8,3 +8,11 @@
 ### 🔗 Connect with me:
 - GitHub: [github.com/Haseeb-Farooq1](https://github.com/Haseeb-Farooq1)
 - Email: haseebf793@gmail.com
+  <!-- Snake Animation -->
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/roshaanmehar/roshaanmehar/output/github-snake.svg" />
+</picture>
+</div>
