@@ -9,7 +9,7 @@
 - GitHub: [github.com/Haseeb-Farooq1](https://github.com/Haseeb-Farooq1)
 - Email: haseebf793@gmail.com
 
-- <a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Haseeb-Farooq1&style=flat-square" width="125"/></a>
+<a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Haseeb-Farooq1&style=flat-square" width="125"/></a>
 
   <!-- Snake Animation -->
 <div align="center">
